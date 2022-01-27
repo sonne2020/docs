@@ -33,7 +33,6 @@ Headers ---------------------------
   
   A [link](http://example.com). 
   
-  An image: ![Alt](#) 
   
   
 #   Code --------------------------- 
