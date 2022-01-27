@@ -1,7 +1,8 @@
-MARKDOWN CHEAT SHEET
+---
+sidebar_position: 2
+---
 
-Headers --------------------------- 
-# Header 1 
+# Header ok 1 
 ## Header 2 
 ### Header 3
 
