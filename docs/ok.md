@@ -33,7 +33,7 @@ Headers ---------------------------
   
   A [link](http://example.com). 
   
-  An image: ![Alt](img.jpg) 
+  An image: ![Alt](#) 
   
   A sized image: ![Alt](img.jpg =60x50)
   
@@ -88,8 +88,6 @@ Nội dụng quote.nội dung có highlight
 In development, you can only use one locale at a same time.
 
 :::
-
-![Locale Dropdown](/img/tutorial/localeDropdown.png)
 
 ```bash
 npm run build
