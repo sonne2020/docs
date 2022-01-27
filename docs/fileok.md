@@ -6,7 +6,7 @@ sidebar_position: 2
 ## Header 2 
 ### Header 3
 
-#  Styling --------------------------- 
+#Styling --------------------------- 
 
  *Emphasize* _emphasize_ 
  **Strong** 
@@ -18,7 +18,7 @@ sidebar_position: 2
  H~2~O is a liquid.
   2^10^ is 1024
   
-#   Lists --------------------------- 
+# Lists --------------------------- 
   - Item 
    * Item 
     + Item 
