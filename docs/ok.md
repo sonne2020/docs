@@ -35,7 +35,6 @@ Headers ---------------------------
   
   An image: ![Alt](#) 
   
-  A sized image: ![Alt](img.jpg =60x50)
   
 #   Code --------------------------- 
   Some `dung`
