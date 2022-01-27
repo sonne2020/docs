@@ -30,13 +30,13 @@ sidebar_position: 1
 Regular Markdown links are supported, using url paths or relative file paths.
 
 ```md
-Let's see how to [Create a page](/create-a-page).
+Let's see how to [Create a page](/tutorial -basics/create-a-page).
 ```
 
 ```md
-Let's see how to [Create a page](./create-a-page.md).
+Let's see how to [Create a page](tutorial -basics/create-a-page.md).
 ```
-**Result:** Let's see how to [Create a page](./create-a-page.md).
+**Result:** Let's see how to [Create a page](tutorial-basics/create-a-page.md).
 
 ## Images
 
