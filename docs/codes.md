@@ -38,8 +38,6 @@ Headers ---------------------------
   A sized image: ![Alt](img.jpg =60x50)
   
    
- ​**Result:**​ Let's see how to [​Create a page​](./create-a-page.md).
-  
   
 #   Code --------------------------- 
   Some `dung`
